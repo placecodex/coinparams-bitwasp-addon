@@ -8,7 +8,7 @@
 
     "require": {
         "bitwasp/bitcoin": "^1.0",
-        "dan-da/coinparams": "0.2.6",
+        "dan-da/coinparams": "^0.2.9",
         "ext-json": "*",
         "php": ">=5.6"
     },
