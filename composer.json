@@ -1,5 +1,5 @@
 {
-    "name": "dan-da/coinparams-bitwasp-addon",
+    "name": "placecodex/coinparams-bitwasp-addon",
     "description": "These are addon classes to integrate bitwasp bitcoin-php with coinparams for multicoin functionality.",
 
     "type": "library",
